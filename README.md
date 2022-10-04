@@ -17,8 +17,6 @@ The Caesar cipher is a classic example of ancient cryptography and is said to ha
 Project is created with:
 
 [![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ajavascript)
-[![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ahtml)
-[![sass](https://img.shields.io/badge/sass-8034A9?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/search?q=user%3Athetalesofj+language%3Ascss)
 
 ## Features
 
